@@ -1,1 +1,1 @@
-# Virtual-plant-CareTaker
+The Virtual Plant CareTaker project is a Java-based application designed to simulate the care and maintenance of virtual plants. It provides users with a virtual garden where they can grow and nurture plants, learning about plant care in the process. The application allows users to select different types of plants, monitor their growth, and take actions such as watering, fertilizing, and pruning to ensure the health and vitality of the virtual plants.
